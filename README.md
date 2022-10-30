@@ -1,6 +1,6 @@
-# js_page_quiz
+# third_paty_api_calendar
 
-JavaScript driven Web application is developed to sugest interactive quiz, collect results, user input and display final score/scores.
+Day scheduler is written with jquery engine
 
 ## Description
 
@@ -31,7 +31,7 @@ https://maksimrazuvaev.github.io/password_generator_js/
 
 ## Usage
 
-Any user to submit quiz questions and get result.
+User can plan dayly activity with this calendar. Save them and review. Past, Present, and Future events have their own backgroud color
 
 ## Credits
 
@@ -45,9 +45,7 @@ MIT License according to the LICENSE file in the repo.
 - https://stackoverflow.com/questions/4727263/get-second-child-using-jquery
 - https://api.jquery.com/children/
 - https://api.jquery.com/each/
-- 
-- 
-- 
-- 
-- 
-- 
+- https://api.jquery.com/click/
+- https://api.jquery.com/parent/
+- https://github.com/sylviaprabudy/work-day-scheduler
+- https://stackoverflow.com/questions/40791207/setting-and-getting-localstorage-with-jquery
