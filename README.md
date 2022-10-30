@@ -4,30 +4,23 @@ Day scheduler is written with jquery engine
 
 ## Description
 
-- webPage whritten on HTML (index.html), structured with CSS (style.css), and quiz functionality is written with JavaScript (script.js)
+- webPage whritten on HTML (index.html), structured with CSS (style.css), and quiz functionality is written with JQuery (script.js)
 - WebPage has next appearence:
 ![Initial_WebPage](/assets/images/Start_Page.PNG)
-- Start section has header, paragraph, and button to start quiz. JS is trigeret by button.
-- Quiz section:
-- has view Higscore button, submit answer buttons and question. HighScore button redirect to other webpage with results. Answer buttons are triggering JS functionality to count answers and update interactive questions.
-![Quiz_Section](/assets/images/Quiz_Section.PNG)
-- allDone section:
-- is to display left time, score, and collect user initials. Submit button to save higscores. HighScore button redirect to other webpage with results.
-![allDone_Section](/assets/images/allDone_section.PNG)
-- Highscore section:
-- is to display list with results, and two buttons to novigate back and forth. 
-![Higscore_Section](/assets/images/Highscore_section.PNG)
-- Highscore section without result list:
-- is to redirect back or to the start section.
-![Highscore_withoutResultList_Section](/assets/images/Highscore_withoutResultList_section.PNG)
-- allScores_WebPage:
-- is to display highScores from local storage. Two buttons for novigation back to main page and clean local storage.
-![allScores_WebPage](/assets/images/allScores_WebPage.PNG)
-
+- WebPage is displaying current day in Week Day, Month 13th format:
+![Curent_Day](/assets/images/Curent_Day.PNG)
+- Scheduler displays Working hours in three different colors for future, past, and present events:
+![Working_Hours](/assets/images/Working_Hours.PNG)
+- Field between hours and submit buttons is clickable. User can enter text on click:
+![Event_Field](/assets/images/Event_Field.PNG)
+- Event is getting saved to Local Storage after clicking save button:
+![Local_Storage](/assets/images/Local_Storage.PNG)
+- Saved to local storage events are available after page update
+![Saved_Events](/assets/images/Saved_Events.PNG)
 
 ## Web Site Location (Deployed Application)
 
-https://maksimrazuvaev.github.io/password_generator_js/
+https://maksimrazuvaev.github.io/third_paty_api_calendar/
 
 ## Usage
 
